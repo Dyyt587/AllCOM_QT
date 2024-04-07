@@ -1,0 +1,303 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2c6fca39c523f08e4854.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				},
+				{
+					"build" : "FluentUI",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-FluentUI-Debug-d72bbb8e33f0b78ad217.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "FluentUI"
+				},
+				{
+					"build" : "FluentUI/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-FluentUI.src-Debug-9ae27ff1d258976bfe5a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "FluentUI/src",
+					"targetIndexes" : 
+					[
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "allcom_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "FluentUI",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "fluentuiplugin",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-e557eb3dcb9186466a27.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-2d6569fba2d2e031fcdf.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-23bf46f6504642eedf5e.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-fc1b2acbde7c282090a6.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2-Debug-0c62514cc1a7eac5004d.json",
+					"name" : "appallcom_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_autogen-Debug-87362d6c170df0e1b884.json",
+					"name" : "appallcom_2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_autogen_timestamp_deps-Debug-8405204d10a5dc5d9e93.json",
+					"name" : "appallcom_2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_qmlimportscan-Debug-897eb385ca06d71d0a7d.json",
+					"name" : "appallcom_2_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_qmllint-Debug-bbb0ed5c48df2ccabb04.json",
+					"name" : "appallcom_2_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_qmllint_json-Debug-79b4ebe8f0d831305267.json",
+					"name" : "appallcom_2_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_qmllint_module-Debug-729fe56e7db105cbd629.json",
+					"name" : "appallcom_2_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_qmltyperegistration-Debug-cab1862149a0269deb07.json",
+					"name" : "appallcom_2_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_tooling-Debug-dd9713d683bfa311f507.json",
+					"name" : "appallcom_2_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "fluentuiplugin::@718bc3f82e4726942356",
+					"jsonFile" : "target-fluentuiplugin-Debug-3c13f4ad3849190891cd.json",
+					"name" : "fluentuiplugin",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "fluentuiplugin_autogen::@718bc3f82e4726942356",
+					"jsonFile" : "target-fluentuiplugin_autogen-Debug-52ab0bea1511aaff9d86.json",
+					"name" : "fluentuiplugin_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "fluentuiplugin_autogen_timestamp_deps::@718bc3f82e4726942356",
+					"jsonFile" : "target-fluentuiplugin_autogen_timestamp_deps-Debug-f9fe2bfa2064374cf04c.json",
+					"name" : "fluentuiplugin_autogen_timestamp_deps",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "fluentuiplugin_qmllint::@718bc3f82e4726942356",
+					"jsonFile" : "target-fluentuiplugin_qmllint-Debug-6314806fb62777ba04f9.json",
+					"name" : "fluentuiplugin_qmllint",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "fluentuiplugin_qmllint_json::@718bc3f82e4726942356",
+					"jsonFile" : "target-fluentuiplugin_qmllint_json-Debug-9d3fab634f3919b3474a.json",
+					"name" : "fluentuiplugin_qmllint_json",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "fluentuiplugin_qmllint_module::@718bc3f82e4726942356",
+					"jsonFile" : "target-fluentuiplugin_qmllint_module-Debug-c59a35a49cd40534db5d.json",
+					"name" : "fluentuiplugin_qmllint_module",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "fluentuiplugin_qmltyperegistration::@718bc3f82e4726942356",
+					"jsonFile" : "target-fluentuiplugin_qmltyperegistration-Debug-f426bc424931510f7067.json",
+					"name" : "fluentuiplugin_qmltyperegistration",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "fluentuiplugin_tooling::@718bc3f82e4726942356",
+					"jsonFile" : "target-fluentuiplugin_tooling-Debug-a0b207d0d5f2b55007b8.json",
+					"name" : "fluentuiplugin_tooling",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QtObjects/learn/allcom_2/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "D:/QtObjects/learn/allcom_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
