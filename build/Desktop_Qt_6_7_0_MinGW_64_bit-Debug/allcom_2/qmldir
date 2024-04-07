@@ -1,0 +1,4 @@
+module allcom_2
+typeinfo appallcom_2.qmltypes
+prefer :/allcom_2/
+

@@ -1,0 +1,14 @@
+-rootPath
+D:/QtObjects/learn/allcom_2
+-cmake-output
+-output-file
+D:/QtObjects/learn/allcom_2/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appallcom_2.cmake
+-importPath
+D:/QtObjects/learn/allcom_2/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/allcom_2
+-importPath
+D:/QtObjects/learn/allcom_2/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.0/mingw_64/./qml
+-qrcFiles
+D:/QtObjects/learn/allcom_2/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmake_allcom_2.qrc
+D:/QtObjects/learn/allcom_2/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/appallcom_2_raw_qml_0.qrc

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/allcom_2/">
+    <file alias="main.qml">D:/QtObjects/learn/allcom_2/main.qml</file>
+  </qresource>
+</RCC>
+

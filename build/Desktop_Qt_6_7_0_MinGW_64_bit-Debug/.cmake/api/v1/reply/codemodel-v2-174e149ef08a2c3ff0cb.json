@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2c6fca39c523f08e4854.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "allcom_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-394bc52fe42fee5f5420.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-600ea5875b8f1cd73051.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-7e0836253ac36b30dc28.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-f7b3aaedf79653c658c9.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2-Debug-fb6002b3e07313473642.json",
+					"name" : "appallcom_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_autogen-Debug-10c5f1b4361cd60edfcc.json",
+					"name" : "appallcom_2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_autogen_timestamp_deps-Debug-fb9c3fc6b2d420091471.json",
+					"name" : "appallcom_2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_qmlimportscan-Debug-24a2261576dade754297.json",
+					"name" : "appallcom_2_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_qmllint-Debug-bbb0ed5c48df2ccabb04.json",
+					"name" : "appallcom_2_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_qmllint_json-Debug-79b4ebe8f0d831305267.json",
+					"name" : "appallcom_2_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_qmllint_module-Debug-729fe56e7db105cbd629.json",
+					"name" : "appallcom_2_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_qmltyperegistration-Debug-cab1862149a0269deb07.json",
+					"name" : "appallcom_2_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appallcom_2_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appallcom_2_tooling-Debug-dd9713d683bfa311f507.json",
+					"name" : "appallcom_2_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QtObjects/learn/allcom_2/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "D:/QtObjects/learn/allcom_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
